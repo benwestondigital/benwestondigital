@@ -16,7 +16,7 @@ I am currently seeking new opportunities for roles in London - feel free to cont
 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/ben-weston-b19420175)
 - [Twitter](https://twitter.com/benwestononline)
-- Email - benwestondigital@gmail.com
+- [Email](mailto:benwestondigital@gmail.com)
 
 <!--
 **benwestondigital/benwestondigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
