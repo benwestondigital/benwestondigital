@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a software engineer with a focus on front-end development. Please have a look at the projects I have created in my profile to see my work.
+I'm a software engineer with a focus on front-end development. I have a background in Digital Marketing, helping companies grow using Paid Advertising.
+
+Please have a look at the projects in my profile to see my work.
 
 - [WhereTo - Climate Travel App](https://github.com/benwestondigital/climate-app)
 Built using Svelte, Svelte Kit, MongoDB and TypeScript
