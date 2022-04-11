@@ -11,7 +11,7 @@ I am currently seeking new opportunities - feel free to contact me via email or 
 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/ben-weston-b19420175)
 - [Twitter](https://twitter.com/benwestononline)
-- [Email](benwestondigital@gmail.com)
+- Email - benwestondigital@gmail.com
 
 <!--
 **benwestondigital/benwestondigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
