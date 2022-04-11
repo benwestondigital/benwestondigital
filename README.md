@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a software engineer with a focus on front-end development. Please have a look at the projects I have created in my profile to see my work.
+
+- ![WhereTo - Climate Travel App](https://github.com/benwestondigital/climate-app)
+- ![NC News - Social News Aggregator](https://github.com/benwestondigital/nc-news)
+- ![NC News - API](https://github.com/benwestondigital/reddit-clone-project)
+
 <!--
 **benwestondigital/benwestondigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
