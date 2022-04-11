@@ -2,6 +2,12 @@
 
 I'm a software engineer with a focus on front-end development. I have a background in Digital Marketing, helping companies to grow using Paid Advertising.
 
+Languages: JavaScript, TypeScript
+Frameworks: React, Svelte
+Meta-Frameworks: Next, Svelte Kit
+Back-End: Express, PostgreSQL
+Testing: Jest
+
 Please have a look at the projects in my profile to see my work.
 
 - [WhereTo - Climate Travel App](https://github.com/benwestondigital/climate-app)
