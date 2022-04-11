@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer with a focus on front-end development. I have a background in Digital Marketing, helping companies grow using Paid Advertising.
+I'm a software engineer with a focus on front-end development. I have a background in Digital Marketing, helping companies to grow using Paid Advertising.
 
 Please have a look at the projects in my profile to see my work.
 
@@ -11,7 +11,7 @@ Built using React and React Router
 - [NC News - API](https://github.com/benwestondigital/reddit-clone-project)
 Built using Node, Express, PostgreSQL
 
-I am currently seeking new opportunities - feel free to contact me via email or LinkedIn
+I am currently seeking new opportunities for roles in London - feel free to contact me via email or LinkedIn.
 
 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/ben-weston-b19420175)
