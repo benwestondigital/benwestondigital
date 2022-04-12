@@ -2,6 +2,8 @@
 
 I'm a software engineer with a focus on front-end development. I have a background in Digital Marketing, helping companies to grow using Paid Advertising.
 
+Check out my portfolio website [benweston.dev](https://www.benweston.dev)
+
 - Languages: JavaScript, TypeScript
 - Frameworks: React, Svelte
 - Meta-Frameworks: Next, Svelte Kit
