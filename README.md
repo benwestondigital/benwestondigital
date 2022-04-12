@@ -18,6 +18,7 @@ Built using Svelte, Svelte Kit, MongoDB and TypeScript
 Built using React and React Router
 - [NC News - API](https://github.com/benwestondigital/reddit-clone-project)
 Built using Node, Express, PostgreSQL
+- [My Portfolio](https://github.com/benwestondigital/next-portfolio)
 
 I am currently seeking new opportunities for roles in London - feel free to contact me via email or LinkedIn.
 
