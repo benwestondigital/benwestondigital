@@ -12,6 +12,8 @@ Check out my portfolio website: [benweston.dev](https://www.benweston.dev)
 
 Please have a look at the projects in my profile to see my work.
 
+- [Holland & Barrett Clone](https://github.com/benwestondigital/holland_barrett_clone)
+Built using Next.js, Tailwind, Cypress.io
 - [WhereTo - Climate Travel App](https://github.com/benwestondigital/climate-app)
 Built using Svelte, Svelte Kit, MongoDB and TypeScript
 - [NC News - Social News Aggregator](https://github.com/benwestondigital/nc-news)
