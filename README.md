@@ -19,7 +19,7 @@ Built using Svelte, Svelte Kit, MongoDB and TypeScript
 - [NC News - Social News Aggregator](https://github.com/benwestondigital/nc-news)
 Built using React and React Router
 - [NC News - API](https://github.com/benwestondigital/reddit-clone-project)
-Built using Node, Express, PostgreSQL
+Built using Node, Express, PostgreSQL, Jest
 - [My Portfolio](https://github.com/benwestondigital/next-portfolio)
 Built using Next.js, Tailwind CSS and MDX
 
