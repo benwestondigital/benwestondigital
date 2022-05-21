@@ -23,8 +23,6 @@ Built using Node, Express, PostgreSQL, Jest
 - [My Portfolio](https://github.com/benwestondigital/next-portfolio)
 Built using Next.js, Tailwind CSS and MDX
 
-I am currently seeking new opportunities for roles in London - feel free to contact me via email or LinkedIn.
-
 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/ben-weston-b19420175)
 - [Twitter](https://twitter.com/benwestononline)
