@@ -8,7 +8,7 @@ Check out my portfolio website: [benweston.dev](https://www.benweston.dev)
 - Frameworks: React, Svelte
 - Meta-Frameworks: Next, Svelte Kit
 - Back-End: Express, PostgreSQL
-- Testing: Jest, Supertest, Cypress
+- Testing: Jest, Supertest, Cypress, Playwright
 
 Please have a look at the projects in my profile to see my work.
 
