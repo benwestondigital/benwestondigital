@@ -1,44 +1,31 @@
-### Hi there 👋
+### Ben Weston
 
-I'm a software engineer with a focus on front-end development. I have a background in Digital Marketing, helping companies to grow using Paid Advertising.
+**Senior Software Engineer – Holland & Barrett (London)**  
+Designing, building, and optimising high-traffic payment and checkout systems.
 
-Check out my portfolio website: [benweston.dev](https://www.benweston.dev)
+---
 
-- Languages: JavaScript, TypeScript
-- Frameworks: React, Svelte
-- Meta-Frameworks: Next, Svelte Kit
-- Back-End: Express, PostgreSQL
-- Testing: Jest, Supertest, Cypress, Playwright
+#### Technical profile
+- React 18, Next.js 14 (App Router, SSR)
+- TypeScript, Go, GraphQL, gRPC
+- PostgreSQL, Redis, Datadog, GitLab CI/CD
+- Playwright, Jest, contract testing
+- A/B experimentation and product analytics
 
-Please have a look at the projects in my profile to see my work.
+#### Areas of impact
+- Delivered a Payment-Awareness widget to surface BNPL options across product and basket pages
+- Migrated legacy Checkout BFF to Go + gRPC, significantly reducing response latency
+- Redesigned mini-basket flow, contributing to improved checkout conversion
+- Built a cross-platform FX calculator app to support deal closure in-store and online
 
-- [Holland & Barrett Clone (E-commerce site)](https://github.com/benwestondigital/holland_barrett_clone)
-Built using Next.js, Tailwind & tested with Cypress.io
-- [WhereTo - Climate Travel App](https://github.com/benwestondigital/climate-app)
-Built using Svelte, Svelte Kit, MongoDB and TypeScript
-- [NC News - Social News Aggregator](https://github.com/benwestondigital/nc-news)
-Built using React and React Router
-- [NC News - API](https://github.com/benwestondigital/reddit-clone-project)
-Built using Node, Express, PostgreSQL & tested with Jest
-- [My Portfolio](https://github.com/benwestondigital/next-portfolio)
-Built using Next.js, Tailwind CSS and MDX
+#### Selected projects
+| Project | Contribution | Key technologies |
+|---------|--------------|------------------|
+| Payment Messaging Widget | Implemented contextual Pay-Later messaging | Next.js SSR, Go, gRPC |
+| Checkout BFF Migration | Re-architected Node/Express BFF into Go micro-service | Go, gRPC, Datadog |
+| Forex Transfer Calculator | Built desktop + responsive app for FX sales enablement | Electron, React/TS, Supabase |
 
-📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/ben-weston-b19420175)
-- [Twitter](https://twitter.com/benwestononline)
-- [Email](mailto:benwestondigital@gmail.com)
+#### Contact
+[LinkedIn](https://www.linkedin.com/in/ben-weston-b19420175) • [Email](mailto:benwestondigital@gmail.com)
 
-<!--
-**benwestondigital/benwestondigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>Last updated: June 2025</sub>
